@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[https://imgur.com/mGnKtQf]' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/uonYpS5' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Kap.
 
